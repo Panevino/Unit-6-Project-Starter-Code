@@ -1,0 +1,68 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+h1 {
+color:white;
+}
+
+.title {
+    font-size: 50px;
+    background-color: green;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+    display: none; 
+}
+
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+    display: none; 
+}
+body {
+ background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/more-leaves-on-green.png");
+}
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+    display: none; 
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+    display: none; 
+}
+
+.ball-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+}
